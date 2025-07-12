@@ -1,3 +1,5 @@
 remote was updated
 
 added content from local
+
+some other text
